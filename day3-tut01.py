@@ -4,6 +4,7 @@ import pickle
 from skimage import feature
 import struct
 from sklearn import preprocessing
+from sklearn.utils import shuffle
 import os
 from PIL import Image
 import numpy as np
